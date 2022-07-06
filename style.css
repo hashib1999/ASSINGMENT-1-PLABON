@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.photo{
+    background-image: url(images/nur\ pic.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 50px 0px;
+    height: 400px;
+    font-size: 30px;
+    font-style: normal;
+    color:orange;
+}
+.link-button{
+color: aliceblue;
+background-color: tomato;
+border-radius: 5px;
+padding: 7px 5px;
+}
+.heading{
+    background-color: rgba(0, 0, 0, 0.391);
+    
+}
+.border{
+    border: 5px solid black;
+    color:maroon;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 7px 10px;
+    background: tomato;
+    margin: 10px 10px;
+}
+ul {
+    text-align: center;
+}
+.give {
+    text-align: center;
+  font-size: 25px;
+}
+.hr {
+    width:600px;
+}
+.plan {
+    text-align: center;
+    font-size:25px;
+}
+.goal1 {
+    text-align: center;
+    background-color: rgba(128, 24, 24, 0.096);
+    border: 2px solid rgb(255, 227, 227);
+    box-shadow: 4px 4px 4px 4px gray;
+    
+}
+.goal2 {
+    text-align: center;
+    background-color: rgba(252, 252, 0, 0.778);
+    border: 2px solid rgb(248, 225, 225);
+    box-shadow: 4px 4px 4px 4px gray;
+    
+}
+
+.goal3{
+    text-align: center;
+    background-color: rgb(14, 190, 190);
+    border: 2px solid rgb(255, 232, 232);
+    box-shadow: 4px 4px 4px 4px gray; 
+}
+.flex {
+    display: flex;
+    margin: 5px;
+    padding-left: 4px;
+    padding-right: 3px;
+}
+.width{
+    width: 30%;
+    padding-right: 5px;
+    padding-left: 2px;
+    margin: 5px;
+    padding-top: 5px;
+}
+    

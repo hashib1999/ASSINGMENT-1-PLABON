@@ -94,4 +94,31 @@ ul {
 width: 80%;
 margin: 40px;
 }
-    
+.rahman{
+    text-align: center;
+}
+.khan {
+    background-color: tomato;
+}
+.last{
+    background: rgba(228, 40, 6, 0.669);
+    background-size: 20px 20px;
+    width: 600px; height: 120px;border: 1px;margin: 0 auto;
+    padding-bottom: 50px;  
+    padding-top: 50px;
+}
+.cool{
+    text-align: center;
+    margin: 500px;
+  background-color: black;
+    background-size: 20px 20px;
+    width: 1400px; height: 120px;border: 1px;margin: 0 auto;
+    padding-bottom: 50px;  
+    padding-top: 50px;
+    font-size: 50px;
+    color: antiquewhite;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ok{
+    padding-top: 50px;
+}g

@@ -118,7 +118,9 @@ margin: 40px;
     font-size: 50px;
     color: antiquewhite;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-family: 'Lobster', cursive;
 }
 .ok{
     padding-top: 50px;
-}g
+    font-family: 'Lobster', cursive;
+}
